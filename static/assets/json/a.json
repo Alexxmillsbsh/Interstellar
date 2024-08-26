@@ -449,5 +449,11 @@
     "link": "https://gba.js.org/",
     "image": "/assets/media/icons/gba.png",
     "categories": ["all", "emu"]
+  },
+  {
+    "name": "HII",
+    "link": "https://gba.js.org/",
+    "image": "/assets/media/icons/gba.png",
+    "categories": ["all", "emu"]
   }
 ]
